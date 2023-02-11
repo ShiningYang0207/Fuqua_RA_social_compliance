@@ -2,6 +2,9 @@
 This is a repo including some of the Apache Spark code scripts during my Research Assistantship at The Fuqua School of Business, Duke University from August 2022 till now. Our project aims to investigate people's social compliance patterns under the COVID-19 lockdown policies in the US.
 
 ## Data
+<p align="center">
+<image src="./images/mfour_logo.gif" width="600" height="200">
+</p>
 The large-scale mobile tracking data we use came from our clients - [MFour Mobile Research](https://mfour.com/). The data contains the following part:
 - Granular daily offline venue visits for panelist on records from 2003 to 2022
 - Granular daily online website visits for panelists on records from 2020 to 2023
